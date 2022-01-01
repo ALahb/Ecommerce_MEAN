@@ -1,18 +1,7 @@
-import React from 'react';
-import styled from 'styled-components';
+import { Link } from "react-router-dom";
+import styled from "styled-components";
 import { mobile } from "../responsive";
 
-function CategoryItem({ item }) {
-  return (
-    <Container>
-      <Image src={item.img} />
-      <Info>
-        <Title>{item.title}</Title>
-        <Button>SHIO NOW</Button>
-      </Info>
-    </Container>
-  );
-}
 const Container = styled.div`
   flex: 1;
   margin: 3px;
@@ -53,5 +42,19 @@ const Button = styled.button`
     cursor: pointer;
     font-weight: 600;
 `;
+
+const CategoryItem = ({ item }) => {
+  return (
+    <Container>
+      <Link to={`/products/${item.cat}`}>
+      <Image src={item.img} />
+      <Info>
+        <Title>{item.title}</Title>
+        <Button>SHOP NOW</Button>
+      </Info>
+      </Link>
+    </Container>
+  );
+};
 
 export default CategoryItem;
