@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Ecommerce_MERN/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Ecommerce_MERN/static/js/main.118d4a99.chunk.js",
-    "main.js.map": "/Ecommerce_MERN/static/js/main.118d4a99.chunk.js.map",
-    "runtime-main.js": "/Ecommerce_MERN/static/js/runtime-main.f10da5d6.js",
-    "runtime-main.js.map": "/Ecommerce_MERN/static/js/runtime-main.f10da5d6.js.map",
-    "static/js/2.13b6faa2.chunk.js": "/Ecommerce_MERN/static/js/2.13b6faa2.chunk.js",
-    "static/js/2.13b6faa2.chunk.js.map": "/Ecommerce_MERN/static/js/2.13b6faa2.chunk.js.map",
-    "index.html": "/Ecommerce_MERN/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/Ecommerce_MERN/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.13b6faa2.chunk.js.LICENSE.txt": "/Ecommerce_MERN/static/js/2.13b6faa2.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.2cada311.chunk.js",
+    "main.js.map": "/static/js/main.2cada311.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4cfc34d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4cfc34d.js.map",
+    "static/js/2.64681ee2.chunk.js": "/static/js/2.64681ee2.chunk.js",
+    "static/js/2.64681ee2.chunk.js.map": "/static/js/2.64681ee2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.64681ee2.chunk.js.LICENSE.txt": "/static/js/2.64681ee2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f10da5d6.js",
-    "static/js/2.13b6faa2.chunk.js",
+    "static/js/runtime-main.f4cfc34d.js",
+    "static/js/2.64681ee2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.118d4a99.chunk.js"
+    "static/js/main.2cada311.chunk.js"
   ]
 }
